@@ -1,0 +1,6 @@
+.env
+.DS_Store
+videos/
+transcripts/
+summaries/
+data/
